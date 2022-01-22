@@ -6,7 +6,9 @@ The aim is to predict whether a user of the music streaming service KKBox will â
 
 The task is to build an algorithm that predicts whether a user will churn after their subscription expires. Currently, the company uses survival analysis techniques to determine the residual membership life time for each subscriber. By adopting different methods, KKBOX anticipates theyâ€™ll discover new insights to why users leave so they can be proactive in keeping users dancing.
 
-This dataset is from KKBOX  music streaming service. The data comes in the shape of five different files. Four of them contain the user IDs and properties:
+This dataset is from KKBOX  music streaming service.
+https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
+The data comes in the shape of five different files. Four of them contain the user IDs and properties:
 
 In train.csv we find the IDs and whether these users have churned or not.
 
